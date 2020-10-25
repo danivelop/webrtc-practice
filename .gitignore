@@ -1,1 +1,11 @@
 node_modules
+
+# ssl
+private
+rootCA.key
+rootCA.srl
+server.crt
+server.csr
+server.csr.cnf
+server.key
+v3.ext
